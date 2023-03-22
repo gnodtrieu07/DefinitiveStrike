@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43a137a9d543ce40981d2ca8724c28e, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 6b68e153c04323549afc00494bcbf59f, type: 2}
+  WeaponsEquipPrefab: {fileID: 7011754904463035781, guid: 391ce08b8b8a40b48b26c5e6c9590307, type: 3}
+  weaponDamage: 5
+  weaponRange: 2
+  thatRightHandHold: 0

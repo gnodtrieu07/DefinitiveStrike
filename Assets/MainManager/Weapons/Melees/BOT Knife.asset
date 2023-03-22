@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43a137a9d543ce40981d2ca8724c28e, type: 3}
+  m_Name: BOT Knife
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: c8e9ce188312d7b4ea2d01b88003c5cb, type: 2}
+  WeaponsEquipPrefab: {fileID: 6058283572540094940, guid: 7e96a6069b6b1ed4e81aea6e2ae84a72, type: 3}
+  weaponDamage: 3
+  weaponRange: 2
+  thatRightHandHold: 0
+  bullets: {fileID: 0}

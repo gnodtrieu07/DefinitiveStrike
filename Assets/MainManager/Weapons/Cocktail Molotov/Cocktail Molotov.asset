@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43a137a9d543ce40981d2ca8724c28e, type: 3}
+  m_Name: Cocktail Molotov
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 468e907a45cfd314a91d8c0f468acc48, type: 2}
+  WeaponsEquipPrefab: {fileID: 0}
+  weaponDamage: 4
+  weaponRange: 15
+  thatRightHandHold: 1
+  bullets: {fileID: 1546941308263381118, guid: be34e527b1b09174298d3e8f5353ac99, type: 3}
