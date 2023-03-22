@@ -1,10 +1,10 @@
 HƯỚNG DẪN CHẠY DEMO
-TRONG ĐỒ ÁN CUNG CẤP BẢN BUILD CHẠY TRÊN WINDOW VÀ TRÊN WEB
+PROJECT CUNG CẤP BẢN BUILD CHẠY TRÊN WINDOW VÀ TRÊN WEB
 ----TRÊN WINDOW
-Giải nén và truy cập đường dẫn folder build:
+Giải nén, build project và truy cập đường dẫn folder build:
 Chạy file Definitive Strike.exe
 ----TRÊN NỀN WEB
-Vào folder buildweb sử dụng trình duyệt Google Chrome và nhấp đúp vào index.html
+Giải nén, build project, vào folder buildweb sử dụng trình duyệt Google Chrome và nhấp đúp vào index.html
 Nếu game không chạy và hiện lỗi hãy làm theo các bước như sau:
 1. Thêm một lối tắt vào Chrome trên Desktop nếu không có
 2. Nhấp chuột phải vào phím tắt và chọn Properties
